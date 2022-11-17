@@ -1,16 +1,16 @@
 <p align="center">
-    <img src="https://telegra.ph/file/7ff09176639655a9fb919.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/d34a25d61e51f1fa5c5c0.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">FangzBOT - MD</h1>
+<h1 align="center">VCTR - BOT</h1>
 <p align="center">
-  <a href="https://github.com/Fangzbotz2007"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Fangz+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Fangz;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/victorbot22"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=VCTR+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+levi ganz;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
- <a href="#"><img title="FangzBOT" src="https://img.shields.io/badge/FANGZ BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="VCTR-BOT" src="https://img.shields.io/badge/VCTR BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-FANGZ-blue.svg?style=for-the-badge&logo=github"></a>
+<a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-LEVI-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <a href="https://github.com/Fangzbotz2007/FangzBOT-MDnetwork/members"><img title="Forks" src="https://img.shields.io/github/forks/Fangzbotz2007/KannaBOT-MD?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/Fangzbotz2007/FangzBOT-MDlwatchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Fangzbotz2007/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
@@ -23,51 +23,51 @@
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6288215689772">
+  <a href="https://wa.me/6285172446692">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://tiktok.com/@fangzjb">
+  <a href="https://www.tiktok.com/@leviatnansyah?_t=8UnaVTcn97p&_r=1">
     <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y=">
+  <a href="https://instagram.com/levisuaran?igshid=YmMyMTA2M2Y=">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:darmapryanda1@gmail.com">
+  <a href="mailto:leviadnansyahlevi@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6288215689772"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895394988123) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288215689772) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM) 
+## ```Whatsapp``` <a href="https://wa.me/6285172446692"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282131369002) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285172446692) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1) 
 ---------
 
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/Fangzbotz2007) |
-| **No Internet** |[✔️](https://github.com/Fangzbotz2007) |
-| **Simple** |[✔️](https://github.com/Fangzbotz2007) |
-| **Button template** |[✔️](https://github.com/Fangzbotz2007) |
-| **Multi Device** |[✔️](https://github.com/Fangzbotz2007) |
+| **Fast Respon** |[✔️](https://github.com/victorbot22) |
+| **No Internet** |[✔️](https://github.com/victorbot22) |
+| **Simple** |[✔️](https://github.com/victorbot22) |
+| **Button template** |[✔️](https://github.com/victorbot22) |
+| **Multi Device** |[✔️](https://github.com/victorbot22) |
 ---------
 #### FITUR 📍
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/Fangzbotz2007) |
-| **Internet** |[✔️](https://github.com/Fangzbotz2007) |
-| **Game Rpg** |[✔️](https://github.com/Fangzbotz2007) |
-| **Nsfw** |[✔️](https://github.com/Fangzbotz2007) |
-| **Sticker** |[✔️](https://github.com/Fangzbotz2007) |
-| **Game** |[✔️](https://github.com/Fangzbotz2007) |
-| **Kerang Ajaib** |[✔️](https://github.com/Fangzbotz2007) |
-| **Quotes** |[✔️](https://github.com/Fangzbotz2007) |
-| **Anime** |[✔️](https://github.com/Fangzbotz2007) |
-| **Premium** |[✔️](https://github.com/Fangzbotz2007) |
-| **Tools** |[✔️](https://github.com/Fangzbotz2007) |
-| **Exec** |[✔️](https://github.com/Fangzbotz2007) |
-| **React** |[✔️](https://github.com/Fangzbotz2007) |
+| **Downloader** |[✔️](https://github.com/victorbot22) |
+| **Internet** |[✔️](https://github.com/victorbot22) |
+| **Game Rpg** |[✔️](https://github.com/victorbot22) |
+| **Nsfw** |[✔️](https://github.com/victorbot22) |
+| **Sticker** |[✔️](https://github.com/victorbot22) |
+| **Game** |[✔️](https://github.com/victorbot22) |
+| **Kerang Ajaib** |[✔️](https://github.com/victorbot22) |
+| **Quotes** |[✔️](https://github.com/victorbot22) |
+| **Anime** |[✔️](https://github.com/victorbot22) |
+| **Premium** |[✔️](https://github.com/victorbot22) |
+| **Tools** |[✔️](https://github.com/victorbot22) |
+| **Exec** |[✔️](https://github.com/victorbot22) |
+| **React** |[✔️](https://github.com/victorbot22) |
 ---------
 
 ## `SETTING`
@@ -243,17 +243,17 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/Fangzbotz2007)
-* [`My parents`](https://github.com/Fangzbotz2007)
-* [`All Friends`](https://github.com/Fangzbotz2007)
-* [`All Contributors`](https://github.com/Fangzbotz2007)
-* [`All Creator Bot`](https://github.com/Fangzbotz2007)
+* [`Allah SWT`](https://github.com/victorbot22)
+* [`My parents`](https://github.com/victorbot22)
+* [`All Friends`](https://github.com/victorbot22)
+* [`All Contributors`](https://github.com/victorbot22)
+* [`All Creator Bot`](https://github.com/victorbot22)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomo)
 * [`BochilGaming`](https://github.com/bochilgaming)
 
 ## ```Recode By 💌```
-[![Fangz BOT](https://github.com/Fangzbotz2007.png?size=100)](https://github.com/Fangzbotz2007)
+[![Fangz BOT](https://github.com/victorbot22.png?size=100)](https://github.com/victorbot22)
 
 ## ```Contributor 📣```
 * [`The.Sad.Boy01`](https://github.com/Kangsad01)
